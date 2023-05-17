@@ -5,5 +5,5 @@ build a personal cv [following youtube tutorial.]()
 - Frontend folder contains the website.
 - mains.js contains visitor counter code .
 ```
-const var
+const 
 ```
